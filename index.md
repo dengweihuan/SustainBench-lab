@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# SustainBench
+# SustainBench-lss
 {: .fs-9 }
 A suite of sustainability benchmarks targeting the UN Sustainable Development Goals (SDGs) including No Poverty, Zero Hunger, Good Health and Well-Being, Quality Education, Clean Water and Sanitation, Climate Action, Global Building and Life on Land.
 {: .fs-6 .fw-300 }
@@ -15,7 +15,7 @@ A suite of sustainability benchmarks targeting the UN Sustainable Development Go
 
 Please cite SustainBench as:
 
-> C. Yeh, C. Meng, S. Wang, A. Driscoll, E. Rozi, P. Liu, J. Lee, M. Burke, D. Lobell, and S. Ermon, "SustainBench: Benchmarks for Monitoring the Sustainable Development Goals with Machine Learning," in _Thirty-fifth Conference on Neural Information Processing Systems, Datasets and Benchmarks Track (Round 2)_, Dec. 2021. [Online]. Available: [https://openreview.net/forum?id=5HR3vCylqD](https://openreview.net/forum?id=5HR3vCylqD).
+> L. Shanshan, C. Meng, S. Wang, A. Driscoll, E. Rozi, P. Liu, J. Lee, M. Burke, D. Lobell, and S. Ermon, "SustainBench: Benchmarks for Monitoring the Sustainable Development Goals with Machine Learning," in _Thirty-fifth Conference on Neural Information Processing Systems, Datasets and Benchmarks Track (Round 2)_, Dec. 2021. [Online]. Available: [https://openreview.net/forum?id=5HR3vCylqD](https://openreview.net/forum?id=5HR3vCylqD).
 
 <details markdown="block">
 <summary>BibTeX</summary>
