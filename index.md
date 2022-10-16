@@ -9,7 +9,7 @@ nav_order: 1
 A set of benchmarks for the Sustainable Development Goals (SDGs) in rural China, including No Poverty, Zero Hunger, Good Health and Well-Being, Quality Education, Clean Water and Sanitation, Affordable and Clean Energy, Climate Action, Life Below Water and Life on Land.
 {: .fs-6 .fw-300 }
 
-<img src="{{ site.baseurl }}/assets/images/overall.png" width="800" title="Distribution of Sample-County">
+<img src="{{ site.baseurl }}/assets/images/overall.png" width="1200" title="Distribution of Sample-County">
 
 [Read the Paper](https://www.mdpi.com/2072-4292/13/6/1070){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/dengweihuan/SustainBench-lab/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
