@@ -4,31 +4,25 @@ title: Home
 nav_order: 1
 ---
 
-# SustainBench-lab
+# China's Rural Sustainable Development Benchmark
 {: .fs-9 }
-A suite of sustainability benchmarks targeting the UN Sustainable Development Goals (SDGs) including No Poverty, Zero Hunger, Good Health and Well-Being, Quality Education, Clean Water and Sanitation, Climate Action, Global Building and Life on Land.
+A set of benchmarks for the Sustainable Development Goals (SDGs) in rural China, including No Poverty, Zero Hunger, Good Health and Well-Being, Quality Education, Clean Water and Sanitation, Affordable and Clean Energy, Climate Action, Life Below Water and Life on Land.
 {: .fs-6 .fw-300 }
 
-<img src="{{ site.baseurl }}/assets/images/fig2.png" width="800" title="Map of Number of SDGs Covered">
+<img src="{{ site.baseurl }}/assets/images/shidianxian.JPEG." width="800" title="Map of Number of SDGs Covered">
 
-[Read the Paper](https://openreview.net/forum?id=5HR3vCylqD){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/sustainlab-group/sustainbench/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Read the Paper](https://www.mdpi.com/2072-4292/13/6/1070){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/dengweihuan/SustainBench-lab/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 Please cite SustainBench as:
 
-> C. Yeh,, C. Meng, S. Wang, A. Driscoll, E. Rozi, P. Liu, J. Lee, M. Burke, D. Lobell, and S. Ermon, "SustainBench: Benchmarks for Monitoring the Sustainable Development Goals with Machine Learning," in _Thirty-fifth Conference on Neural Information Processing Systems, Datasets and Benchmarks Track (Round 2)_, Dec. 2021. [Online]. Available: [https://openreview.net/forum?id=5HR3vCylqD](https://openreview.net/forum?id=5HR3vCylqD).
+> Y. Li, W. Xu, H. Chen, J. Jiang, and X. Li, “A novel framework based on mask R-CNN and histogram thresholding for scalable segmentation of new and old rural buildings,” Remote Sens., vol. 13, no. 6, p. 1070, Mar. 2021. [Online]. Available: [https://www.mdpi.com/2072-4292/13/6/1070](https://www.mdpi.com/2072-4292/13/6/1070).
 
 <details markdown="block">
 <summary>BibTeX</summary>
 
 ```tex
 @inproceedings{
-    sustainbenchyeh2021,
-    title = {SustainBench: Benchmarks for Monitoring the Sustainable Development Goals with Machine Learning},
-    author = {Christopher Yeh and Chenlin Meng and Sherrie Wang and Anne Driscoll and Erik Rozi and Patrick Liu and Jihyeon Lee and Marshall Burke and David Lobell and Stefano Ermon},
-    booktitle = {Thirty-fifth Conference on Neural Information Processing Systems, Datasets and Benchmarks Track (Round 2)},
-    year = {2021},
-    month = {12},
-    url = {https://openreview.net/forum?id=5HR3vCylqD}
+
 }
 ```
 
